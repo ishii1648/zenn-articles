@@ -1,0 +1,15 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sho Ishii <ishii1492@gmail.com> (https://qiita.com/ishii1648)",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
